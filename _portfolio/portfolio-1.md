@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/NFC.png'>"
+title: "Using RFID Cards to Play Music From A Network Shared Folder"
+excerpt: "On an Android Phone, a Raspberry Pi controlled headless device, and a Raspberry Pi controlled arcade cabinet<br/><img src='/images/NFC.png'>"
 collection: portfolio
 ---
 
