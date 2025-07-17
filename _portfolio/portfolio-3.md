@@ -6,10 +6,11 @@ collection: portfolio
 
 I find Spotify’s ‘Discover Weekly’ playlists to be pretty hit or miss. It’s 30 songs every week, of which I’ll usually find 20 to be unremarkable, I’ll hate 7 or 8, and I’ll love 2 or 3. This app streamlines the process of finding ‘the diamonds’, while also letting you do it in bulk, rather than every week.
 
-It uses IFTTT to push the discover weekly into a separate playlist every week without requiring any input from you, and then the app lets you play the music, and sort the songs into a new ‘good’ playlist or not with a single keypress, then removing them from the original playlist.
+It uses IFTTT to push the discover weekly into a separate playlist every week without requiring any input from you. Then the app lets you play the music, and easily sort some songs into a new playlist with a single keypress, removing all songs heard from the original playlist.
 
 To run the project, first [IFTTT](https://ifttt.com) will need to be setup.
 Setup this applet, with your discover weekly, and a new bulk playlist:
+
 ![IFTTT](/images/IFTTT.png)
  
 Download SpoTinder.py from my Github [here](https://github.com/tomjowen/SpoTinder)
