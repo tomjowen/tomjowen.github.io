@@ -1,6 +1,6 @@
 ---
 title: "Building (and Then Using) a Hardware Password Manager"
-excerpt: "A surprisingly good way to manage passwords using a Raspbery Pi Pico and an HID compatible Arduino<br/><br/><img src='/images/500x300.png'>"
+excerpt: "A surprisingly good way to manage passwords using a Raspbery Pi Pico and an HID compatible Arduino<br/><br/><img src='/images/passwordmanager.png'>"
 collection: portfolio
 ---
 
