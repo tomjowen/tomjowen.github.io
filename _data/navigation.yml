@@ -17,14 +17,14 @@ main:
   - title: "Projects"
     url: /portfolio/
         
-  - title: "Writing"
-    url: /year-archive/
+  #- title: "Writing"
+  #  url: /year-archive/
     
   - title: "Tutoring"
     url: /teaching/    
     
-  #- title: "CV"
-  #url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
