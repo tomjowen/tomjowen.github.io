@@ -6,9 +6,9 @@ collection: portfolio
 
 For better or for worse, I have convinced myself that I can tell the difference between lossy and lossless compression, even through my poorly amplified DT 990s. As such, I have built up a fairly sizeable music library. That’s great on my desktop PC, where the files are stored locally and there are a hundred pieces of excellent software to catalogue and play my music. It’s worse when I want to listen to my music on my phone, or in the kitchen.
 
-The solution, inspired by this video (https://www.youtube.com/watch?v=-jGWjFR936o), was to network share my media library, get a pack of 50 RFID cards and write the name of an album (as the folder appears in my media library) to the contents of each card.
+The solution, inspired by [this video](https://www.youtube.com/watch?v=-jGWjFR936o), was to network share my media library, get a pack of 50 RFID cards and write the name of an album (as the folder appears in my media library) to the contents of each card.
 
-From there, I wanted to be able to play my music from my phone, but also from a raspberry pi. The raspberry pi would either be plugged into the [arcade cabinet I built], or connected headlessly to the kitchen speakers. 
+From there, I wanted to be able to play my music from my phone, but also from a raspberry pi. The raspberry pi would either be plugged into the [arcade cabinet I built](https://tomjowen.github.io/portfolio/portfolio-6/), or connected headlessly to the kitchen speakers. 
 
 Setting up the headless device was the simplest. I used an RC522 reader to read the cards, and then it runs (on startup) a very short script. All the script needs to do is first mount the network share drive, then start listen for cards, ‘os.join’ the contents of the card to the directory of the mounted network drive, and play the files in that folder through mpv using an MPRIS command. I also included a couple of cards with commands like skip (also using MPRIS), and shutdown (using os.exec()).
 
