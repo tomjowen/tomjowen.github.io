@@ -1,6 +1,6 @@
 ---
 title: "Building (and Then Using) a Hardware Password Manager"
-excerpt: "A surprisingly good way to manage passwords using a Raspbery Pi Pico and an HID compatible Arduino<br/><br/><img src='/images/passwordmanager.png'>"
+excerpt: "A surprisingly good way to manage passwords using a Raspbery Pi Pico and an HID compatible Arduino"
 collection: portfolio
 ---
 
@@ -16,5 +16,7 @@ Components:
 * 4x4 Matrix Keypad – Needs an input from somewhere, 0-9 act as the keyboard (old Nokia phone style), with the letters being for navigation. This is a major drawback to this system, typing feels slow, clunky and mushy, and gives the device a large footprint. 
 * SD Card Reader – Data is stored here, encrypted with a pin that you setup
 * I2C Display
+
+![Components](/images/passwordmanager.png)
 
 Videos of it working can be seen [here](https://www.youtube.com/shorts/KOHCZmaIBUA) or a longer playlist [here](https://www.youtube.com/playlist?list=PLouFc3BkexWFiNbRgFanChZ0leR1_jGs7). This project was originally made for my Computer Science NEA, and these videos are proving functionality through tests.
