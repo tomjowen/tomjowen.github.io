@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m Tom, and I’m in the third year of my undergraduate degree studying Engineering Science at the University of Oxford, Keble College, with a specialisation in Electrical and Electronic Engineering.
+I’m Tom, and I’m in the third year of my undergraduate degree studying Engineering Science at the University of Oxford, Keble College, heavily specialized in Electrical and Electronic Engineering.
 
-This site is primarily for sharing some of the personal projects I have worked on, you can find them here (link)
-
-Aside from that, I am very passionate about music, which influences a lot of the things I make.  I love to travel, and for the past few years I have collected translations of ‘The Little Prince’ from every place I’ve been, photos of a few of the more interesting editions can be found here.
-
+This site is primarily for sharing some of the personal projects I have worked on, you can find them [here](https://tomjowen.github.io/portfolio/)
 
 <!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
