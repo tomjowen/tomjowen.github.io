@@ -18,4 +18,4 @@ Find a video of the arcade machine working here
 
 The android phone was, unfortunately, a bit of a cop out. Tasker was the obvious choice for this project, and it works brilliantly except for the fact that I could find no way to mount the network share in a way that Tasker could access. This meant that I had to store music locally on the phone. I used FolderSync to regularly clone the network share to my phone, so at least new music will always be accessible, but my storage is running out fast!
 
-![The Arcade Cabinet](/images/"NFC.png")
+![The Arcade Cabinet](/images/NFC.png)
