@@ -1,6 +1,6 @@
 ---
 title: "The 40%, Legendless, Ortholinear Keyboard"
-excerpt: "Excellent for everything except World of Warcraft<br/><br/><img src='/images/500x300.png'>"
+excerpt: "Significantly better than it sounds"
 collection: portfolio
 ---
 
@@ -12,3 +12,4 @@ collection: portfolio
 *	Hand soldered rather than using a circuit board, with a diode on every switch
 
 I got up to full typing speed on this keyboard in about two weeks, the only thing that has ever made me get my old keyboard out since is working with Excel spreadsheets, at which point I need the numpad.  
+It takes up so little room on the desk, and I think it might be better on the hands too, reducing the amount of stretching each finger has to do.
