@@ -8,7 +8,7 @@ I’m sure everyone has seen [that](https://www.youtube.com/watch?v=oOlDewpCfZQ)
 This device takes that idea further, making it easier than ever to from concept to having the basis of a pop song blocked out. 
 Using the knob, you can select a key, and a depth for all chords. Then, each red key will play a different chord, and each grey key will modulate its corresponding chord, either up or down, which can be changed by clicking the knob.
 
-It is programmed entirely in circuitpython, and the code can be found here.
+It is programmed entirely in circuitpython, and the code can be found [here](https://github.com/tomjowen/PopBox).
 
 Parts list:
 * Raspberry Pi Pico
