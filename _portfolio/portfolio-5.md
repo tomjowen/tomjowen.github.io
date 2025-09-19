@@ -17,3 +17,5 @@ Parts list:
 * 8x Keyswitches
   
 I then 3D Printed the backplate, keycaps and encoder knob (.stl files available in the repository), and chiselled out a large block of wood as the housing.  
+
+![PopBox](/images/PopBox.jpg)
