@@ -14,4 +14,4 @@ collection: portfolio
 I got up to full typing speed on this keyboard in about two weeks, the only thing that has ever made me get my old keyboard out since is working with Excel spreadsheets, at which point I need the numpad.  
 It takes up so little room on the desk, and I think it might be better on the hands too, reducing the amount of stretching each finger has to do.
 
-![Keyboard](/image/keyboard.jpg)
+![Keyboard](/images/keyboard.jpg)
