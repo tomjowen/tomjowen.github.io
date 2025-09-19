@@ -10,4 +10,4 @@ I bought a joystick set (here)[https://www.aliexpress.com/item/1005005499225108.
 
 From there, I made a mockup in solidworks, built the frame, painted it black, and then ran RetroArch on the old computer.
 
-![Arcade Machine](/images/arcade.jpg)
+![Arcade Machine](/images/Arcade.jpg)
