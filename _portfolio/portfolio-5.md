@@ -5,8 +5,9 @@ collection: portfolio
 ---
 
 I’m sure everyone has seen [that](https://www.youtube.com/watch?v=oOlDewpCfZQ) Axis of Awesome video, about how all modern pop is built around the same 4 chords: I, IV, VI, vi.
-This device takes that idea further, making it easier than ever to from concept to having the basis of a pop song blocked out. 
-Using the knob, you can select a key, and a depth for all chords. Then, each red key will play a different chord, and each grey key will modulate its corresponding chord, either up or down, which can be changed by clicking the knob.
+This device takes that idea further, making it easier than ever to from concept to having the basis of a pop song blocked out.
+
+Using the knob, you can select a key, and a depth for all chords. Then, each red button will play one of the four chords in that key, and each grey button will modulate its corresponding chord, either up or down, which can be changed by clicking the knob.
 
 It is programmed entirely in circuitpython, and the code can be found [here](https://github.com/tomjowen/PopBox).
 
